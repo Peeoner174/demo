@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "employees": [
+    { "name": "Sergei", "specialization": "Network Administrator", "email": "sergei@mail.com", "phone": "+7 (926) 000-00-76" },
+    { "name": "Dmitriy", "specialization": "Data Scientist", "email": "dima@mail.com", "phone": "+7 (999) 999-99-99" },
+    { "name": "Ruslan", "specialization": "Android-Developer", "email": "ruslan@mail.com", "phone": "+7 (909) 000-00-00" }
+  ]
 }
